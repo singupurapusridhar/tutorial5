@@ -1,2 +1,2 @@
 # tutorial5
-Datafoundry opened in Hyderabad
+Datafoundry opened in Hyderabad and Bangalore
